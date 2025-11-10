@@ -1,0 +1,22 @@
+.creditos:hover{
+  transform: scale(1.1);
+  transition: 0.5s ease-in-out;
+}
+.creditos{
+    background-color: aqua;
+    width: 200px;
+    height: 100px;
+    transition: transform 0.4s ease
+}
+dd{
+  font-family: sans-serif;
+}
+h1{
+  font-family: fantasy;
+  letter-spacing: 1.5px;
+}
+h2{
+  font-family: fantasy;
+  letter-spacing: 1.5px;
+  
+}
